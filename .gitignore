@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
 
+# Nodejs
+.next
+node_modules
+
+# Logs
+*.log
+
 # Compiled Object files
 *.slo
 *.lo
